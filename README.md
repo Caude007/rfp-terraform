@@ -11,6 +11,4 @@ If you wish to start with the configuration used at the beginning of a lesson, u
 
 Don't forget to run a `terraform init` for each new directory you use! 
 
-For question, feel free to join our Discord at https://chat.morethancertified.com/discord
-
 ### Terraform Apply Yourself! ###
